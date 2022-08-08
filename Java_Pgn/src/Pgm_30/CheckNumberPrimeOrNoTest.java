@@ -2,7 +2,7 @@ package Pgm_30;
 
 public class CheckNumberPrimeOrNoTest {
 public static void main(String[] args) {
-	int num=11;
+	int num=11;  /Mention the number
 	int count=0;
 	
 	for(int i=2;i<num;i++)
